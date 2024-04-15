@@ -1,0 +1,44 @@
+body {
+    background-color: #ffa8a5;
+  }
+h1{
+    color: #fff0f0;
+    font-size: 65px;
+    text-align: center;
+}
+.damira{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    
+    
+}
+.name{
+    height: 70% ;
+    width: 50%;
+    
+}
+.hobby{
+    margin-bottom: 30px;
+}
+p{
+    color: #fff0f0;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    text-align: center;
+    width: 400px;
+    height: 500px;
+
+}
+.stars{
+    color: #7f8583;
+}
+.skills{
+    margin-bottom: 30px;
+    height: 250px;
+}
+.navyk{
+    height: 250px;
+}
