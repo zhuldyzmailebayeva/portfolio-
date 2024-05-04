@@ -44,9 +44,10 @@ section{
 #hero{
     display: flex;
 }
-h1{
+.white{
     color: #FFEAE3;
     font-size: 80px;
+    text-align: center;
 }
 h2{
     color: #FFEAE3;
@@ -83,7 +84,6 @@ img{
     width: 800px;
 }
 
-
 #aboutme{
     padding: 50px;
     color:#FFB1B1;
@@ -91,19 +91,38 @@ img{
     position: relative;
     z-index: 3;
 }
-
-.hobby{
-    margin-bottom: 30px;
+.pink{
+    color: #FFB1B1;
+    font-size: 80px;
+    text-align: center;
 }
-p{
-    color: #fff0f0;
+.hobby{
+    text-align: center;
+    width: 300px;
+}
+.pink2{
+    color: #FFB1B1;
     font-size: 30px;
     text-align: center;
 }
-img{
+.coral{
+    width: 50%;
+    display: flex;
     text-align: center;
-    width: 400px;
+    align-items: center;
+    justify-content: center;
+}
+.flex{
+    display: flex;
+}
 
+#skills{
+    padding: 50px;
+    color:#FFEAE3;
+    background-color: #FFB1B1;
+    position: relative;
+    z-index: 3;
+    height: 100vh;
 }
 .stars{
     color: #7d8581;
@@ -113,5 +132,33 @@ img{
     height: 250px;
 }
 .navyk{
-    height: 250px;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+}
+.white2{
+    font-size: 30px;
+    text-align: center;
+}
+
+#projects {
+    padding: 50px;
+    color:#FFB1B1;
+    background-color: #FFEAE3;
+    position: relative;
+    z-index: 3;
+    height: 100vh;
+}
+.project{
+    width: 600px;
+}
+
+#blog {
+    padding: 50px;
+    color:#FFEAE3;
+    background-color: #FFB1B1;
+    position: relative;
+    z-index: 3;
+    height: 100vh;
 }
