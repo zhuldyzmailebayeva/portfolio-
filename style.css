@@ -162,3 +162,35 @@ img{
     z-index: 3;
     height: 100vh;
 }
+#contact {
+    padding: 50px;
+    color:#FFB1B1;
+    background-color: #FFEAE3;
+    position: relative;
+    z-index: 3;
+    height: 100vh;
+}
+.card{
+    width: 500px;
+    background-color: #C5FF95;
+    padding: 50px ;
+    border-radius: 30px;
+}
+.w100{
+    width: 100%;
+}
+.cardbtn{
+    text-decoration: none;
+    width: 500px;
+    display: block;
+    margin: 0 150px;
+}
+.dflex{
+    display: flex;
+}
+.w80{
+    width: 80%;
+}
+.chiutnizhe{
+    margin-top: 450px;
+}
