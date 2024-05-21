@@ -127,9 +127,19 @@ img{
 .stars{
     color: #7d8581;
 }
+.size{
+    height: 300px;
+}
 .skills{
     margin-bottom: 30px;
     height: 250px;
+}
+.w50{
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 70px;
 }
 .navyk{
     text-align: center;
